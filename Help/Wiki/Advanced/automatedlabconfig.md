@@ -101,6 +101,10 @@ How much time should elapse between the retries of ```Invoke-LabCommand```?
 
 The name of the lab XML configuration file.
 
+### LabSourcesLocation
+
+Custom location for LabSources directory
+
 ### Logging
 
 This key contains logging options:  
